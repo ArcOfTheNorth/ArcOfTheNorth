@@ -9,13 +9,21 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 </a>
 
-- 🔭 I'm a high school student who enjoys coding
+- 🔭 I'm a high school student who enjoys coding'
 
-- 🌱 I'm available for freelncing
+- 🌱 I’m currently working on getting my IB diploma
+
+- 🤝 I'm available for freelncing
+
+- 🧠 I’m currently learning C++
+
+- 📝 Avid Mathematics Enjoyer
 
 - 💬 Ask me about **My least favorite programming language**
 
 - 📫 How to reach me **jamalmark2014@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/ArcOfTheNorth/ArcOfTheNorth/blob/main/Jamal_Gache_Resume.pdf" target="blank">Resume</a>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
