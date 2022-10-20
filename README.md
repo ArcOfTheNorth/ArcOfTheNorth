@@ -25,11 +25,27 @@
 
 - 📄 Know about my experiences <a href="https://github.com/ArcOfTheNorth/ArcOfTheNorth/blob/main/Jamal_Gache_Resume.pdf" target="blank">Resume</a>
 
+<h1 align="center">Stats</h1>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=ArcOfTheNorth&show_icons=true&theme=radical" />
+  </a>
+
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=ArcOfTheNorth&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcOfTheNorth&layout=compact&theme=radical" />
+  </a>
+</div>
+
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jamal-mark-b44377254/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -42,7 +58,6 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCC9zcXM-6Ognf87nRU1I3DA">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
-
 </p>
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
