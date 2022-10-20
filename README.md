@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Jamal</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm Jamal</h1>
+<h3 align="center">A passionate programmer from Nairobi, Kenya &#x1F1F0;&#x1F1EA; but curently living in Abidjan, Côte d'ivoire &#x1F1E8;&#x1F1EE;</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArcOfTheNorth&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
