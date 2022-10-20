@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jamal</h1>
-<h3 align="center">A passionate programmer from Nairobi, Kenya &#x1F1F0;&#x1F1EA; but curently living in Abidjan, Côte d'ivoire &#x1F1E8;&#x1F1EE;</h3>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Jamal</h1>
+<h3 align="center">A passionate programmer from Nairobi, Kenya—but curently living in Abidjan, Côte d'ivoire</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArcOfTheNorth&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -25,8 +25,9 @@
 
 - 📄 Know about my experiences <a href="https://github.com/ArcOfTheNorth/ArcOfTheNorth/blob/main/Jamal_Gache_Resume.pdf" target="blank">Resume</a>
 
-<h1 align="center">Stats</h1>
+<br>
 
+<h1 align="center">Stats</h1>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="350px" src="https://github-readme-stats.vercel.app/api?username=ArcOfTheNorth&show_icons=true&theme=radical" />
