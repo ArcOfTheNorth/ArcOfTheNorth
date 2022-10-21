@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working on getting my IB diploma
 
-- 🤝 I'm available for freelncing
+- 🤝 I'm available for freelancing
 
 - 🧠 I’m currently learning C++
 
