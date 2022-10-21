@@ -61,8 +61,6 @@
       </div>
 </p>
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
 Last Edited on: 10/20/2022
 
 
